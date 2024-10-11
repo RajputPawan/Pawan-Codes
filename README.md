@@ -7,3 +7,6 @@ Author: Pawan Rajput
 #git commit is used to save the changes over github.
 
 #Staging is the intermediate area bw the pwd(local repo) and the github repository 
+
+
+#Adding some data form the git website itself to test the working on CLI
